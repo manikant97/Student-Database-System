@@ -110,8 +110,6 @@ public class StudentDatabase{
                    sc.close();
 
             }
-  
-
         }   
     }
     catch(Exception e){
