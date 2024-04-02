@@ -8,15 +8,15 @@ Features
 4. Calculate Average Marks: The application calculates and displays the average marks of all students in the database.
 5. Exit: Users can exit the application.
        Getting Started
-   Prerequisites
-   Java Development Kit (JDK)
-   IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
-   Running the Application
-   Clone or download the repository to your local machine.
-   Open the project in your preferred IDE or text editor.
-   Compile and run the StudentDatabase.java file.
-   Follow the on-screen instructions to interact with the application.
-        Usage
-Choose an option from the menu by entering the corresponding number.
-Follow the prompts to perform the selected operation.
-Repeat steps as needed for adding students, viewing students, searching, calculating averages, or exiting the application.
+  1. Prerequisites
+   i.Java Development Kit (JDK)
+  ii. IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
+    2.  Running the Application
+  i. Clone or download the repository to your local machine.
+  ii. Open the project in your preferred IDE or text editor.
+   iii.Compile and run the StudentDatabase.java file.
+   iv.Follow the on-screen instructions to interact with the application.
+     3.Usage
+i.Choose an option from the menu by entering the corresponding number.
+ii.Follow the prompts to perform the selected operation.
+iii.Repeat steps as needed for adding students, viewing students, searching, calculating averages, or exiting the application.
